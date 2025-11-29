@@ -1,0 +1,27 @@
+# Vivado generated files and directories
+.project
+.settings/
+.cache/
+.runs/
+.sim/
+.hw/
+.ip_user_files/
+.Xil/
+.metadata/
+*.jou
+*.log
+*.str
+*.backup
+*.rpt
+*.html
+*.xml
+*.bit
+*.bin
+*.mcs
+*.rcf
+*.pdi
+*.ltx
+*.vcd
+*.wdb
+*.wcfg
+*.xdc.bak
